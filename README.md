@@ -1,2 +1,2 @@
 # Vizcacha
-lenguage de programacion encima de otro lenguaje al igual que rust pero mejor en todo sentido
+lenguage de programacion encima de otro lenguaje inspirado en java y en rust pero mejor
