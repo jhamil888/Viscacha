@@ -1,2 +1,2 @@
-# Vizcacha
-lenguage de programacion encima de otro lenguaje inspirado en java y en rust pero mejor
+# Viscacha
+Lenguaje de programacion inspirado en java y en rust pero mas seguro y mejor
